@@ -1,4 +1,7 @@
 # WeatherStationPCB
+
+[<img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104">](https://www.tindie.com/stores/wsp_india/?ref=offsite_badges&utm_source=sellers_WSP_India&utm_medium=badges&utm_campaign=badge_large)
+
 This repository includes all the files to print your own PCB, Source the components, and debug the circuit.
 
 Currently we offer 4 different kits;
