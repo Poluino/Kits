@@ -28,7 +28,7 @@ Currently we offer 4 different kits;
 
 The PCBs for the kits were designed using the KiCad Open source software. 
 
-#You can purchase our Kits at our Tindie Store:
+# You can purchase our Kits at our Tindie Store:
  - [India](https://www.tindie.com/stores/wsp_india/)
 
 Feel free to contact me via email at dhruv@weatherstationproject.com or via discord at DhruvS#7149.
