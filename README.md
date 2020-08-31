@@ -9,22 +9,17 @@ Currently we offer 4 different kits;
 
 # Kits:
 1. Barebones Kit: 
-
   - Temperature, Humidity, and Pressure. The three basic measurements for a home weather station project.
   - Version 1.0 Includes the BME280 sensor and an ESP32 Dev Board (30 pin).
   
 2. Full Kit:
-
   - Temperature, Humidity, Pressure, Air Quality, Luminosity, UV Index, and Rain.
-
   - Version 1.2 Includes the DHT11 for Humidity, BMP280 for Pressure and Temperature, MQ - 135 for Air Quality, 
     BH1750 for Luminosity, GUVA - S12SD for UV Index, and YL - 83 for Rain.
-    
   - Version 2.0 Will use BME280 for Humidity, Temperature, and Humidity, VEML 6070 for UV Index. 
     Others will remain Unchanged.
   
 3. Full Kit (SMD version):
-
   - Basically the big boy version of the Full Kit, which uses the same sensors used by the Full Kit (V - 2.0) but will have all the components in their SMD package and will include components for a DIY ESP32 Development Board. 
 
 4. Extended: 
